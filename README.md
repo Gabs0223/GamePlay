@@ -1,5 +1,5 @@
 # GamePlay
-A short playable tale.
+A short playable tale based on the tale "La vendedora de nubes"
 
 My first attempt to make a playable tale.
 The original version was written by Elena Poniatowska.
